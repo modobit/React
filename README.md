@@ -3,6 +3,7 @@
 ## Made With React Showcase 
 - https://madewithreactjs.com/
 - https://madewithreact.com/
+- https://material-ui.com/discover-more/showcase/
 
 ## GitHub React Tutorials 
 
