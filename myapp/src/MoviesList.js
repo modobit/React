@@ -3,7 +3,7 @@ import Movie from './Movie';
 
 const MovieList = () => {
 
-    //variable constant and funtion  
+    //variable constant and function  
     const [movies,setMovies] = useState([
         {
             name: 'Harry Potter',
